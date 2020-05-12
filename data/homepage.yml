@@ -1,7 +1,7 @@
 ############################# banner ############################
 banner:
   enable : true
-  title : "Hand and Surface Sanitizer"
+  title : "Bath Springs Hand and Surface Sanitizer"
   content : "Bath Springs is Health Canada approved and is FDA accepted for the production of hand sanitizer products."
   image : "images/sanitizer.jpg"
   button: "Buy Now With $199"
