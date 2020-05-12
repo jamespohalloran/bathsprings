@@ -1,5 +1,5 @@
 ################################### Default Configuration ############################
-baseurl = "https://www.example.com/"
+baseurl = "https://heuristic-jackson-d5f9da.netlify.app/"
 languageCode = "en"
 title = "Bath Springs"
 theme = "vex-hugo"
