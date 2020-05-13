@@ -1,5 +1,5 @@
 ################################### Default Configuration ############################
-baseurl = "https://heuristic-jackson-d5f9da.netlify.app/"
+baseurl = "https://peihandsanitizer.ca/"
 languageCode = "en"
 title = "Bath Springs Hand & Surface Sanitizer"
 theme = "vex-hugo"
