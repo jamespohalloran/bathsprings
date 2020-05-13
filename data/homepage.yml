@@ -3,7 +3,7 @@ banner:
   enable : true
   title : "Bath Springs Hand and Surface Sanitizer"
   content : "Bath Springs is Health Canada approved and is FDA accepted for the production of hand sanitizer products."
-  image : "images/sanitizer.jpg"
+  image : "images/bathsprings_bottle.jpg"
   button: "Buy Now With $199"
 
 ############################## product ###########################
@@ -61,7 +61,7 @@ promo:
   enable : true
   image : "images/southridge.webp"
   title : "Manufactured in New Brunswick"
-  content : "South Riple has shifted operations to manufacture sanitizer during these difficult times. Our formulation is World Health Organization Formula A.  It is a liquid that is best applied to hands or surfaces with your spray bottle.  The W.H.O. does not recommend the use of gels or fragrances since they can reduce the effects of active agents in the sanitizer.  It is an institutional strength product that we sell to hospitals and other healthcare facilities.  Consumer grade products may only contain 29% alcohol.  The W.H.O recommends at least 70% alcohol.  Bath Springs Surface and Hand Sanitizer is formulated at 81% alcohol."
+  content : "South Ridge Maple has shifted operations to manufacture sanitizer during these difficult times. Our formulation is World Health Organization Formula A.  It is a liquid that is best applied to hands or surfaces with your spray bottle.  The W.H.O. does not recommend the use of gels or fragrances since they can reduce the effects of active agents in the sanitizer.  It is an institutional strength product that we sell to hospitals and other healthcare facilities.  Consumer grade products may only contain 29% alcohol.  The W.H.O recommends at least 70% alcohol.  Bath Springs Surface and Hand Sanitizer is formulated at 81% alcohol."
 
 
 ############################# About Product #######################
